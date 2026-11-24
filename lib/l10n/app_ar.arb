@@ -1,0 +1,10 @@
+{
+  "@@locale": "ar",
+  "appName": "Homestack",
+  "tagline": "تسوّقوا معًا. نظّموا مخزونكم بذكاء.",
+  "navShopping": "التسوق",
+  "navPantry": "المخزن",
+  "navHousehold": "العائلة",
+  "navProfile": "حسابي",
+  "currencyDzd": "دج"
+}

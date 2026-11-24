@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appName": "Homestack",
+  "tagline": "Shop together. Stock smarter.",
+  "navShopping": "Shopping",
+  "navPantry": "Pantry",
+  "navHousehold": "Household",
+  "navProfile": "Profile",
+  "currencyDzd": "DZD"
+}

@@ -1,0 +1,44 @@
+name: home_stack
+description: Homestack — Shared household shopping list & pantry inventory app.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: 0.20.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/
+    - assets/icons/
+  # Uncomment after placing font .ttf files in assets/fonts/
+  # fonts:
+  #   - family: Plus Jakarta Sans
+  #     fonts:
+  #       - asset: assets/fonts/PlusJakartaSans-Regular.ttf
+  #         weight: 400
+  #       - asset: assets/fonts/PlusJakartaSans-SemiBold.ttf
+  #         weight: 600
+  #       - asset: assets/fonts/PlusJakartaSans-Bold.ttf
+  #         weight: 700
+  #   - family: IBM Plex Sans Arabic
+  #     fonts:
+  #       - asset: assets/fonts/IBMPlexSansArabic-Regular.ttf
+  #         weight: 400
+  #       - asset: assets/fonts/IBMPlexSansArabic-SemiBold.ttf
+  #         weight: 600
+  #       - asset: assets/fonts/IBMPlexSansArabic-Bold.ttf
+  #         weight: 700

@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+  "appName": "Homestack",
+  "tagline": "Faites vos courses ensemble. Gérez mieux.",
+  "navShopping": "Courses",
+  "navPantry": "Garde-manger",
+  "navHousehold": "Foyer",
+  "navProfile": "Profil",
+  "currencyDzd": "DZD"
+}

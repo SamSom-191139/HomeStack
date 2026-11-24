@@ -1,0 +1,28 @@
+/// Barrel file exporting all shared Homestack widgets.
+library;
+export 'primitives/hs_button.dart';
+export 'primitives/hs_text_field.dart';
+export 'primitives/hs_segmented_code_input.dart';
+export 'primitives/hs_chip.dart';
+export 'primitives/hs_quantity_stepper.dart';
+export 'primitives/hs_item_thumbnail.dart';
+export 'primitives/hs_progress_indicator.dart';
+export 'navigation/hs_sync_banner.dart';
+export 'navigation/hs_top_app_bar.dart';
+export 'navigation/hs_bottom_nav_bar.dart';
+export 'navigation/hs_extended_fab.dart';
+export 'navigation/hs_sponsored_banner.dart';
+export 'feedback/hs_bottom_sheet.dart';
+export 'feedback/hs_confirm_dialog.dart';
+export 'feedback/hs_toast.dart';
+export 'feedback/hs_empty_state.dart';
+export 'feedback/hs_skeleton_loader.dart';
+export 'feedback/hs_limit_upsell_sheet.dart';
+export 'items/hs_category_section_header.dart';
+export 'items/hs_shopping_item_row.dart';
+export 'items/hs_pantry_item_row.dart';
+export 'items/hs_catalog_item_card.dart';
+export 'items/hs_spending_bar.dart';
+export 'household/hs_avatar.dart';
+export 'household/hs_member_row.dart';
+export 'household/hs_plan_card.dart';
